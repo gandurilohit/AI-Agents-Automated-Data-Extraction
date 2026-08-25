@@ -2,9 +2,6 @@
 AI Agents & Automated Data Extraction
 =====================================
 
-Consolidated, GitHub-friendly single-file version of work completed for an
-NYU Stern research sample task.
-
 What is grounded in the original work
 -------------------------------------
 1) Web scraping:
@@ -29,7 +26,6 @@ IMPORTANT
 ---------
 This is a consolidated portfolio version. It preserves the actual scraper logic
 from the submission and packages the API/agent workflow into one readable file.
-It does NOT fabricate AlphaGenome results.
 
 Install:
     pip install pandas beautifulsoup4 playwright nest_asyncio requests openai
